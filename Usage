@@ -1,0 +1,2 @@
+ Replace the database list with your own dataset and set the target variable to the item you want to search for.
+Run the code to execute Grover's algorithm and obtain the most likely result.
