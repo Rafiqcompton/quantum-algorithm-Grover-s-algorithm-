@@ -1,0 +1,2 @@
+ Install Qiskit using pip install qiskit.
+Set up your quantum simulator or connect to a quantum computer through IBM Quantum Experience.
