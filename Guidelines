@@ -1,0 +1,3 @@
+To use this code snippet, you need to have Qiskit installed. 
+You can install it using pip install qiskit. 
+Additionally, make sure you have a working quantum simulator or access to a quantum computer through IBM Quantum Experience.
